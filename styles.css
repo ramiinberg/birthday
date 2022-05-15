@@ -10,10 +10,21 @@ h1, h2, h3, h4, p {
   text-shadow: 0px 0px 1px black;
 }
 
-h2, h4 {
-  background: #EFB0C9;
-}
 /* layout */
+
+#bday-age {
+  background: #EFB0C9;
+  padding: 8px 16px;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+#bday-date {
+  margin: 0;
+  background: #EFB0C9;
+  padding: 8px 16px;
+  border-radius: 5px;
+}
 
 #header {
   display: flex;
