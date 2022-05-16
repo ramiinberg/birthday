@@ -66,3 +66,25 @@ h1, h2, h3, h4, p {
 #gif-hot:hover {
   background-image: url("./images/hot.gif");
 }
+
+#gif-badass:hover {
+  background-image: url("./images/badass.gif");
+}
+
+#gif-genius:hover {
+  background-image: url("./images/genius.gif");
+}
+
+#gif-cheers {
+  height: 200px;
+}
+
+#gif-cheers:hover {
+  background-image: url("./images/cheers.gif");
+}
+
+p {
+  font-size: 32px;
+  font-style: italic;
+  margin: 0 0 40px 0;
+}
